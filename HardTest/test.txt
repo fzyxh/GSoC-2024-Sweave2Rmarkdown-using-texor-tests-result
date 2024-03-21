@@ -1,0 +1,4 @@
+*Hello there*, this is plain text with no formatting
+except paragraph breaks.
+
+- Like this one.

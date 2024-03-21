@@ -1,0 +1,32 @@
+== Wiki Creole
+
+You can make things **bold** or //italic// or **//both//** or //**both**//.
+
+Character formatting extends across line breaks: **bold,
+this is still bold. This line deliberately does not end in star-star.
+
+Not bold. Character formatting does not cross paragraph boundaries.
+
+You can use [[internal links]] or [[http://www.wikicreole.org|external links]],
+give the link a [[internal links|different]] name.
+^D
+## Wiki Creole
+
+You can make things **bold** or *italic* or ***both*** or ***both***.
+
+here is my code: 
+
+{{{
+import os
+# ***is that a good line?***
+print("Hello world!\n")
+}}}
+
+Character formatting extends across line breaks: \*\*bold, this is still
+bold. This line deliberately does not end in star-star.
+
+Not bold. Character formatting does not cross paragraph boundaries.
+
+You can use [internal links](internal links) or [external
+links](http://www.wikicreole.org), give the link a
+[different](internal links) name.

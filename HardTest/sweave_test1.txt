@@ -1,0 +1,23 @@
+\documentclass{article}
+\begin{document}
+
+I have 2 apples. You have 3 apples.
+
+Hence, we have \Sexpr{2+3} apples.
+@
+<< >>=
+x <- 2
+y <- 3
+cat('We have ', x+y, 'apples.')
+@
+
+\end{document}
+
+
+<< >>=
+<< >>=
+x <- 2
+y <- 3
+cat('We have ', x+y, 'apples.')
+@
+@@@
